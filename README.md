@@ -7,11 +7,9 @@ Install Following Packages
 
 2.) npm install body-parser --save
 
-To run the code there are two ways
+To run the code 
 
-1.) npm test
-
-2.) node index.js
+ "node index.js"
 
 Then the server is run on the port 1337.
 
