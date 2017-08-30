@@ -10,6 +10,10 @@ Install Following Packages
 To run the code 
 
  "node index.js"
+ 
+ OR
+ 
+ "npm test"
 
 Then the server is run on the port 1337.
 
